@@ -1,4 +1,4 @@
-# Stream Deck Icon Pack (144×144)
+# Nexline Stream Deck Icon Pack
 
 300 icons for the Elgato Stream Deck, featuring white outline symbols with rounded, thick lines.
 
